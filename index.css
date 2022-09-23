@@ -79,37 +79,45 @@ body {
 #moveup {
     position: absolute;
     top: 75vh;
-    left: 50vw;
+    left: 41vw;
     font-size: 3vmax;
     font-weight: bold;
     cursor: pointer;
+    width: 20vw;
+    height: 10.5vh;
 }
 
 #movedown {
     position: absolute;
-    top: 85vh;
-    left: 50vw;
+    top: 87vh;
+    left: 41vw;
     font-size: 3vmax;
     font-weight: bold;
     cursor: pointer;
+    width: 20vw;
+    height: 10.5vh;
 }
 
 #moveleft {
     position: absolute;
-    top: 80vh;
-    left: 45vw;
+    top: 75vh;
+    left: 25vw;
     font-size: 3vmax;
     font-weight: bold;
     cursor: pointer;
+    height: 22vh;
+    width: 15vw;
 }
 
 #moveright {
     position: absolute;
-    top: 80vh;
-    left: 54vw;
+    top: 75vh;
+    left: 62vw;
     font-size: 3vmax;
     font-weight: bold;
     cursor: pointer;
+    height: 22vh;
+    width: 15vw;
 }
 
 button {
