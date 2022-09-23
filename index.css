@@ -78,44 +78,37 @@ body {
 
 #moveup {
     position: absolute;
-    top: 74vh;
-    left: 45vw;
-    font-size: 3vw;
+    top: 75vh;
+    left: 50vw;
+    font-size: 3vmax;
     font-weight: bold;
-    width: 8vw;
     cursor: pointer;
-    height: 12vh;
 }
 
 #movedown {
     position: absolute;
-    top: 87vh;
-    left: 45vw;
-    font-size: 3vw;
+    top: 85vh;
+    left: 50vw;
+    font-size: 3vmax;
     font-weight: bold;
-    width: 8vw;
-    height: 12vh;
     cursor: pointer;
 }
 
 #moveleft {
     position: absolute;
-    top: 83vh;
-    left: 36vw;
-    font-size: 3vw;
+    top: 80vh;
+    left: 45vw;
+    font-size: 3vmax;
     font-weight: bold;
-    width: 8vw;
     cursor: pointer;
 }
 
 #moveright {
     position: absolute;
-    top: 83vh;
+    top: 80vh;
     left: 54vw;
-    font-size: 3vw;
+    font-size: 3vmax;
     font-weight: bold;
-    width: 8vw;
-
     cursor: pointer;
 }
 
@@ -144,25 +137,22 @@ button:active {
 }
 
 #speedup {
-    font-size: 3vw;
+    font-size: 7vmax;
     font-weight: bold;
     cursor: pointer;
     margin-bottom: 1vh;
-    width: 4vw;
 }
 
 #speeddown {
-    font-size: 3vw;
+    font-size: 7vmax;
     font-weight: bold;
     cursor: pointer;
     margin-top: 1vh;
-    width: 4vw;
 }
 
 
 
 #speedbox {
-    /* border: 2px solid black; */
     position: absolute;
     top: 40vh;
     left: 4vw;
